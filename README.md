@@ -13,7 +13,7 @@ I use GitHub to document my learning, projects, experiments, and progress as I b
 ## 👨‍💻 About Me
 
 - 🎓 Electrical Engineering Graduate
-- 💻 Focused on **C, Advanced C, Embedded C & Microcontrollers**
+- 💻 Focused on **C, Embedded C & Microcontrollers**
 - 🔧 Building hands-on C and embedded projects
 - 🧠 Interested in low-level programming and hardware-software interaction
 - 📚 Currently strengthening **Advanced C and Data Structures**
